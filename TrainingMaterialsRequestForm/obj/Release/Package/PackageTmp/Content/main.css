@@ -1,0 +1,101 @@
+﻿body{
+    /*font-size:16px;*/
+    background-color:#e2e2e2;
+
+}
+
+.label{
+color:black;
+font-size: 100%;
+font-weight:normal;
+width:100% !important;
+white-space: nowrap !important;
+}
+
+.control-label{
+/*color:black;*/
+font-size: 100%;
+/*font-weight:normal;
+width:100% !important;
+white-space: nowrap !important;*/
+}
+
+ .th { 
+		background:#5067a5; 
+		color: white; 
+		font-weight: bold; 
+        padding: 6px; 
+		border: 1px solid #ccc; 
+		text-align: left;
+        font-size: 18px; 	
+	}
+
+label {
+    padding-top:0.4em;
+}
+.groupone{
+    color:black;
+}
+.trainingheading {
+    font-size:1.1em;
+    font-weight:bold;
+    width:100%;
+}
+.hrone{
+    /*width: 90%;*/ 
+    /*text-align: center;*/
+    /*margin-left: 5%;*/
+    height:1px;
+    background-color:black;
+}
+
+/*.datepicker a input::selection {
+    color:black;
+}*/
+
+.ui-widget-header{
+    color:black !important;
+}
+
+.ui-icon-circle-triangle-w {
+    background-image: url('themes/base/images/ui-icons_2e83ff_256x240.png') !important;
+}
+
+.ui-icon-circle-triangle-e {
+    background-image: url('themes/base/images/ui-icons_2e83ff_256x240.png') !important;
+}
+
+.th {
+    font-size:1.2em !important;
+}
+
+textarea {
+    width:76%;
+}
+
+footer {
+    height:100px;
+}
+
+/*@media   
+ (max-width : 768px)*/ 
+/*and (orientation : portrait) {
+    input:not([type=checkbox])
+     {
+       width:40%;
+       float:left;
+    }
+    .th {
+        width:40%;
+        float:left;
+    }
+
+    label {
+        float:left;
+        width:20%;
+    }
+    select {
+        width:40%;
+    }
+ }*/
+

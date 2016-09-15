@@ -1,0 +1,82 @@
+﻿body{
+    /*font-size:16px;*/
+    background-color:#e2e2e2;
+
+}
+
+.numericpager a
+ {
+     padding-left:10px;
+     padding-right:10px;
+    
+ }
+
+.label{
+color:black;
+font-size: 90%;
+font-weight:normal;
+width:100% !important;
+white-space:normal !important;
+}
+
+.hrone{
+    /*width: 90%;*/ 
+    /*text-align: center;*/
+    /*margin-left: 5%;*/
+    height:1px;
+    background-color:black;
+}
+
+
+label {
+    padding-top:0.4em;
+}
+.groupone{
+    color:black;
+}
+.trainingheading {
+    font-size:1.1em;
+    font-weight:bold;
+    width:100%;
+}
+
+
+/*.datepicker a input::selection {
+    color:black;
+}*/
+
+.ui-widget-header{
+    color:black !important;
+}
+
+.ui-icon-circle-triangle-w {
+    background-image: url('themes/base/images/ui-icons_2e83ff_256x240.png') !important;
+}
+
+.ui-icon-circle-triangle-e {
+    background-image: url('themes/base/images/ui-icons_2e83ff_256x240.png') !important;
+}
+
+.th {
+    font-size:1.2em !important;
+    
+}
+
+th {
+
+    background-color:aliceblue;
+}
+
+textarea {
+    width:76%;
+}
+
+footer {
+    height:100px;
+}
+
+/*.table {
+
+   
+    align-self:center;
+}*/
